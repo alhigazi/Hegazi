@@ -1,2 +1,2 @@
 # Hegazi
-A website for Hegazi consultation services
+Hegazi consultation services
